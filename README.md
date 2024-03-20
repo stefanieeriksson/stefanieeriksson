@@ -25,10 +25,7 @@ Founder & CEO of Build Measure Learn Sweden AB which provides data analytics & e
 ![csharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![apachespark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)&nbsp;
@@ -58,6 +55,10 @@ Founder & CEO of Build Measure Learn Sweden AB which provides data analytics & e
 ![hotjar](https://img.shields.io/badge/-Hotjar-05122A?style=flat&logo=hotjar)&nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=stefanieeriksson&theme=dark&hide_border=true" width="400">
+
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
 
 -------
 
