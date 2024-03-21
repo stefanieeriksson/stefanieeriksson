@@ -72,8 +72,7 @@ Please contact me about:\
 ☕ Catching up for afternoon fika/coffee, if we have worked together previously :) Always great to catch up with former colleagues. \
 💬 Contact me at: stefanie@buildmeasurelearn.se
 
-<a href="https://linkedin.com/in/stefanieeriksson"><img src="https://img.shields.io/badge/-Stefanie%20Eriksson-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://linkedin.com/in/stefanie-eriksson"><img src="https://img.shields.io/badge/-Stefanie%20Eriksson-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <!--
 **stefanieeriksson/stefanieeriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
