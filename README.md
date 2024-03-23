@@ -14,7 +14,7 @@ Founder & CEO of Build Measure Learn Sweden AB which provides data analytics & e
 🔆 &nbsp; Many years experience working for several vastly different growing organizations that have been through the challenges of scaling, digital transformation and/or organizational acquisition. \
 🌱 &nbsp; Continuous learning is a fundamental part of my personal mission \
 💡 &nbsp; Adept at constantly shifting perspective between broad picture (vision / direction) and fascinating details. \
-⚡ &nbsp; Current hobby: building web front-ends \
+⚡ &nbsp; Current hobby: building web front-ends and web scraping! \
 💙 &nbsp; Strong interest in entrepreneurship  
 
 -------
