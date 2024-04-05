@@ -22,6 +22,7 @@ Founder & CEO of Build Measure Learn Sweden AB which provides data analytics & e
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![csharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
